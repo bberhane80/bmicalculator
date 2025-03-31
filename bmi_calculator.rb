@@ -1,3 +1,4 @@
+class BMI
 attr_accessor :height, :weight
 
 def initialize
@@ -31,4 +32,4 @@ def category(bmi)
 end
 
 BMI.new.calculate
-
+end
