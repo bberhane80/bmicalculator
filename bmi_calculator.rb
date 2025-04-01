@@ -32,4 +32,4 @@ def category(bmi)
   end
 end
 
-BMI.new.calculate
+BMI
