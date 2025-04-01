@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require_relative '../bmi'
+require_relative '../bmi_calculator'
 
 class TestBMI < Minitest::Test
   def test_calculation
